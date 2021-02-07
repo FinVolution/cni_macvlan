@@ -1,0 +1,4 @@
+package client
+
+const Demojson = ``
+`
